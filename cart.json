@@ -1,0 +1,34 @@
+{
+    "user": [
+        {
+            "count": [
+                1,
+                1
+            ],
+            "name": [
+                "a"
+            ],
+            "productid": [
+                56253,
+                56253
+            ]
+        },
+        {
+            "count": [
+                1,
+                1
+            ],
+            "name": [
+                "\u5f65\u4ec1"
+            ],
+            "productid": [
+                "DBAB12-A900813GP",
+                "DPADK9-A900A81ZD"
+            ],
+            "productname": [
+                "\u53ef\u53e3\u53ef\u6a02 \u6613\u958b\u7f50235ml(8\u5165/\u7d44)",
+                "JVC 55\u540b\u8d854K+HDR\u7a84\u908a\u6846LED\u6db2\u6676\u986f\u793a\u566855Q"
+            ]
+        }
+    ]
+}
